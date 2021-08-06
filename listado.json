@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Accesorios",
+        "description": "Combina tus oufits con los mejores accesorios",
+        "productCount": "122",
+        "imgSrc": "img/cat1.jpg"
+    },
+    {
+        "name": "Calzados",
+        "description": "Consigue tu talle en todo tipo de calzados",
+        "productCount": "354",
+        "imgSrc": "img/cat2.jpg"
+    },
+    {
+        "name": "Camperas",
+        "description": "Combate este invierno con lo mejor",
+        "productCount": "157",
+        "imgSrc": "img/cat3.jpg"
+    },
+    {
+        "name": "Pantalones",
+        "description": "Encuentra todos los modelos que imagines",
+        "productCount": "452",
+        "imgSrc": "img/cat4.jpg"
+    },
+    {
+        "name": "Remeras",
+        "description": "Estampadas, lisas, tu eliges la que mas te gusta",
+        "productCount": "724",
+        "imgSrc": "img/cat5.jpg"
+    },
+    {
+        "name": "Shorts",
+        "description": "consigue una gran variedad en todos los talles",
+        "productCount": "841",
+        "imgSrc": "img/cat6.jpg"
+    },
+]
